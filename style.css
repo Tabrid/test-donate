@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  background-color: white;
+}
+section{
+  background-image: url(20220706_113121.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: white;
+  height: 500px;
+  margin: 0;
+  padding: 0;
+  gap: 40px;
+}
+.first-text{
+  text-align: center;
+  padding: 100px;
+  margin: 30px;
+  color: white;
+}
+h1{
+  font-size: 50px;
+}
+
+.donate-button{
+  text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    line-height: 20px;
+}
